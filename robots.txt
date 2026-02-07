@@ -1,6 +1,3 @@
-# الكود التالي يخبر جميع محركات البحث (مثل جوجل وبينج) ببدء أرشفة الموقع بالكامل
 User-agent: *
 Allow: /
-
-# استبدل الرابط أدناه برابط موقعك الحقيقي ليدل جوجل على خريطة الموقع
-Sitemap: https://ahmed-sami.vercel.app//sitemap.xml
+Sitemap: https://batrann.com/sitemap.xml
